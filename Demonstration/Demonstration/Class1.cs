@@ -30,6 +30,7 @@ namespace Demonstration
             _tracer.StopTrace();
 
             _tracer.GetTraceResult();
+
         }
     }
 }
